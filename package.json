@@ -1,6 +1,6 @@
 {
   "name": "waitmerijaan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "💖 A quirky async utility that makes JavaScript wait for you — with love. Perfect for delays, timeouts, and async experiments.",
   "main": "index.js",
   "type": "commonjs",
