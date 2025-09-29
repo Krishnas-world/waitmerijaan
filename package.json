@@ -23,10 +23,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/waitmerijaan.git"
+    "url": "git+https://github.com/Krishnas-world/waitmerijaan"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/waitmerijaan/issues"
+    "url": "https://github.com/Krishnas-world/waitmerijaan/issues"
   },
-  "homepage": "https://github.com/yourusername/waitmerijaan#readme"
+  "homepage": "https://github.com/Krishnas-world/waitmerijaan"
 }
