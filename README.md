@@ -70,4 +70,4 @@ Because sometimes your code just needs a little ❤️.
 
 ## License
 
-MIT © Your Name
+MIT © KrishnasWorld
