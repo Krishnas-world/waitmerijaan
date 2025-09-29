@@ -1,0 +1,32 @@
+{
+  "name": "waitmerijaan",
+  "version": "1.0.0",
+  "description": "💖 A quirky async utility that makes JavaScript wait for you — with love. Perfect for delays, timeouts, and async experiments.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "async",
+    "await",
+    "delay",
+    "timeout",
+    "sleep",
+    "promise",
+    "wait",
+    "fun",
+    "quirky",
+    "meri-jaan"
+  ],
+  "author": "Krishna H Pallan>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/waitmerijaan.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/waitmerijaan/issues"
+  },
+  "homepage": "https://github.com/yourusername/waitmerijaan#readme"
+}
